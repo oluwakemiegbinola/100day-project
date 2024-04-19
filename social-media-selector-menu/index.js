@@ -14,4 +14,4 @@ liEls.forEach((liEl) => {
     socialListsEl.classList.add("hide");
     menuEl.classList.toggle("rotate");
   });
-});
+});nodd

@@ -1,0 +1,3 @@
+Different between javaScript and ECMAScript
+ECMAScript is just specifation
+javaScript is a programming language that supports or confirms this specification so we have this orgainzation called a comma which is responsible for defining standards they take care of this Eggman script specification the first version of eggman script was released in 1997 then starting from 2015 ACMA has been working on annual releases of a newest specification so in 2015 they released a kimono script 2015 which is also called ECMO script version 6 or es6 for short this specification defined many new features for javasript alright enough theory
